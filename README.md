@@ -1,3 +1,5 @@
+# Pacman 
+
 ## Overview
 This project is a simplified implementation of the classic Pacman game using Python and Tkinter for the graphical interface. It features a Pacman agent that navigates a grid, avoiding a ghost while collecting dots. The game logic includes a reinforcement learning aspect where the agent can learn optimal moves based on rewards and penalties.
 
